@@ -14,11 +14,11 @@ A client has hired you to automatically post some of their brand messages to twi
 * Here is the list of words and their substitutes:
 
 ```
-"hello" becomes 'hi'
-"to, two, too" become '2' 
-"for, four" become '4'
-'be' becomes 'b'
-'you' becomes 'u'
+"hello" becomes "hi"
+"to, two, too" become "2"
+"for, four" become "4"
+"be" becomes "b"
+"you" becomes "u"
 "at" becomes "@" 
 "and" becomes "&"
 ```
